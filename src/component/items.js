@@ -1,4 +1,4 @@
-import { Button } from "./button"
+// import { Button } from "./button"
 
 const links = [
     {
@@ -42,9 +42,14 @@ const links = [
 export const Nav = () => {
     return (
         <div className="w-full md:w-3/5 mx-auto">
-            {links.map(({id,title, link}) => <a key={id} href={link} target="_blank">
-                <Button text={title}/>
-            </a> )}
+            {links.map(({id,title, link}) => 
+            <div className='w-full bg-[#EAECF0;] text-center rounded-md py-3 md:py-5 my-3 md:my-5'>
+                  <a key={id} id={id} href={link} target="_blank" rel="noreferrer noopener" className="w-full">
+                {/* <Button text={title}/> */}
+                {title}
+            </a>
+            </div>
+           )} 
         </div>
     )
 }
