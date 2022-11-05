@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Linktree/static/css/main.d9e04141.css",
-    "main.js": "/Linktree/static/js/main.8ecb8268.js",
-    "static/media/I4G.svg": "/Linktree/static/media/I4G.601ff0479d970c740e8b7d7ba7821548.svg",
-    "static/media/profile__img.svg": "/Linktree/static/media/profile__img.56601b4d04e63bff29bcaad20a3f8bb1.svg",
-    "static/media/Zuri.Internship_Logo.svg": "/Linktree/static/media/Zuri.Internship_Logo.0f8c3aa843c87d1f28aa0826858bd0ef.svg",
-    "static/media/slack.svg": "/Linktree/static/media/slack.87ba9caeb75d37f14fe434c266c7d9c7.svg",
-    "static/media/githup.svg": "/Linktree/static/media/githup.6a40f212828370260b880b93f8d36b56.svg",
-    "static/media/btn1.svg": "/Linktree/static/media/btn1.ef0667842321f70b92ece6b332a6dc6f.svg",
-    "static/media/btn2.svg": "/Linktree/static/media/btn2.8b4369de8ab30a8ae240d027dafeccf0.svg",
-    "index.html": "/Linktree/index.html",
-    "main.d9e04141.css.map": "/Linktree/static/css/main.d9e04141.css.map",
-    "main.8ecb8268.js.map": "/Linktree/static/js/main.8ecb8268.js.map"
+    "main.css": "/https://ikpeku.github.io/Linktree/static/css/main.d9e04141.css",
+    "main.js": "/https://ikpeku.github.io/Linktree/static/js/main.dce95562.js",
+    "static/media/I4G.svg": "/https://ikpeku.github.io/Linktree/static/media/I4G.601ff0479d970c740e8b7d7ba7821548.svg",
+    "static/media/profile__img.svg": "/https://ikpeku.github.io/Linktree/static/media/profile__img.56601b4d04e63bff29bcaad20a3f8bb1.svg",
+    "static/media/Zuri.Internship_Logo.svg": "/https://ikpeku.github.io/Linktree/static/media/Zuri.Internship_Logo.0f8c3aa843c87d1f28aa0826858bd0ef.svg",
+    "static/media/slack.svg": "/https://ikpeku.github.io/Linktree/static/media/slack.87ba9caeb75d37f14fe434c266c7d9c7.svg",
+    "static/media/githup.svg": "/https://ikpeku.github.io/Linktree/static/media/githup.6a40f212828370260b880b93f8d36b56.svg",
+    "static/media/btn1.svg": "/https://ikpeku.github.io/Linktree/static/media/btn1.ef0667842321f70b92ece6b332a6dc6f.svg",
+    "static/media/btn2.svg": "/https://ikpeku.github.io/Linktree/static/media/btn2.8b4369de8ab30a8ae240d027dafeccf0.svg",
+    "index.html": "/https://ikpeku.github.io/Linktree/index.html",
+    "main.d9e04141.css.map": "/https://ikpeku.github.io/Linktree/static/css/main.d9e04141.css.map",
+    "main.dce95562.js.map": "/https://ikpeku.github.io/Linktree/static/js/main.dce95562.js.map"
   },
   "entrypoints": [
     "static/css/main.d9e04141.css",
-    "static/js/main.8ecb8268.js"
+    "static/js/main.dce95562.js"
   ]
 }
