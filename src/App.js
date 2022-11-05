@@ -7,7 +7,7 @@ function App() {
     <div className="p-4">
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path='/contact' element={<Contact/>} />
+        <Route path='#/contact' element={<Contact/>} />
         <Route path="*" element={<Navigate to="/" replace/>} />
        
       </Routes>
