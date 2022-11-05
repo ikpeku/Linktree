@@ -40,7 +40,7 @@ const links = [
     {
         id: "contact",
         title: "Contact Me",
-        link: "#/contact"
+        link: "/contact"
 
     }
 ]
