@@ -50,7 +50,7 @@ export const Nav = () => {
         <div className="w-full md:w-3/5 mx-auto">
             {links.map(({id,title, link}) => 
             <div key={id} className='w-full bg-[#EAECF0;] text-center rounded-md py-3 md:py-5 my-3 md:my-5'>
-                  <a id={id} href={link} target="_blank" rel="noreferrer noopener" className="w-full">
+                  <a id={id} href={link} target={id === "contact" ? "" : "_blank"} rel="noreferrer noopener" className="w-full">
                 {/* <Button text={title}/> */}
                 {title}
             </a>
