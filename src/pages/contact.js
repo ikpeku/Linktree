@@ -28,7 +28,7 @@ const handleSubmit = (e) => {
   return (
     <>
 
-      <div className="mx-auto max-w-screen-xl py-6 md:py-16 sm:px-0 lg:px-8">
+      <div className="mx-auto  py-6 md:py-16 sm:px-0 lg:px-8">
         <div className="block md:p-6 rounded-lg shadow-lg bg-white lg:w-1/2 mx-auto">
           <h1 className='text-2xl font-bold text-[#101828] sm:text-3xl'>Contact Me</h1>
           <p className='max-w-lg py-4 text-[#475467]'>Hi there, contact me to ask me about anything you have in mind.</p>

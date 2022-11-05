@@ -5,7 +5,7 @@ export const Footer = () => {
     const { zurilogo, I4GLogo } = img
   return (
     <div className='md:absolute md:bottom-5 w-full'>
-        <div className="md:flex justify-between space-y-5 md:mt-16 border-t-2 border-gray-200 w-5/6 mx-auto py-3">
+        <div className="md:flex justify-between space-y-5 lg:mt-16 border-t-2 border-gray-200 w-5/6 mx-auto py-3">
         <a
           href=" https://training.zuri.team/"
           target="_blank"

@@ -8,7 +8,7 @@ export const Home = () => {
     <div>
                 <div className="flex justify-around items-start">
           <h1>
-            <span class="sr-only">I_Am_DanielIkpe</span>
+            <span className="sr-only">I_Am_DanielIkpe</span>
           </h1>
           <div className="">
             <img
@@ -17,9 +17,9 @@ export const Home = () => {
               alt=""
               className="mx-auto"
             />
-            <caption className="flex text-lg font-semibold">
+            <h3 className="flex text-lg font-semibold">
               Annette Black
-            </caption>
+            </h3>
           </div>
           <button>
             <img src={btn2} alt="btn" className="hidden md:block" />
